@@ -1,6 +1,6 @@
 # Economic Analysis Dashboard
 
-This is my fifth project created for the Engeto Data Analysis Academy. It serves as a visual continuation of my previous SQL project (Project 4). The goal of this project was to create an interactive dashboard in Power BI to visualize the relationship between average wages, food prices, and macroeconomic indicators.
+This is my fifth project created for the Engeto Data Analysis Academy. It serves as a visual continuation of my previous SQL project (engeto-sql-economic-analysis). The goal of this project was to create an interactive dashboard in Power BI to visualize the relationship between average wages, food prices, and macroeconomic indicators.
 
 ## Description
 
@@ -10,10 +10,6 @@ The dashboard visualizes data from the Czech Republic and other European countri
 * Identification of food categories with the slowest price increases.
 * Comparison of year-on-year growth between wages and food prices.
 * The impact of GDP on wages and prices.
-
-## Dashboard Preview
-
-[Drag and drop your screenshot here on GitHub to show a preview of your dashboard]
 
 ## How to View
 
